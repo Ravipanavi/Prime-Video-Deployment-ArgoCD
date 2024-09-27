@@ -5,7 +5,7 @@ metadata:
   labels:
     app: prime-app
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: prime-app
@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: prime-app
-        image: amonkincloud/amazon-prime:latest
+        image: ravirachitap/amazon-prime:latest
         ports:
         - containerPort: 3000
