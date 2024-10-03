@@ -521,4 +521,25 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
   
     ------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
-  The Result of this Project is attached in the End - End deployment pdf file.
+The Result of this Project is attached in the End - End deployment pdf file.
+Kubernetes – EKS END TO END Deployment:
+
+Overview of this project: 
+Deploying the Node JS based application on EKS through Argo CD with secure deployment. 
+Text stack:
+•	Node JS 
+•	AWS Ec2 instance.
+•	Jenkins CI Pipeline.
+•	GitHub.
+•	Security – SonarQube & Trivy.
+•	Docker & Docker Scout
+•	Cloud Formation Stack
+•	EKS
+•	Argo CD
+•	Observability – Prometheus & Grafana
+
+
+
+
+
+  
